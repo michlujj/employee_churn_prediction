@@ -9,4 +9,6 @@ Business Objective: To predict the factors that lead to employee's job resignati
 
 Dataset contains 35 variables
 
+Dataset link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 Target variable = 'Attrition', ('Yes','No')
